@@ -1,3 +1,7 @@
 isa casas es mi rama
 
 hola desde main
+
+trabajando con vi
+
+crearemos un conflicto
